@@ -2,13 +2,13 @@
 This project consists of a Node.js script that generates random data and another script that processes the generated data into a JSON format. Docker is used to containerize the project for easy execution.
 
 ## Setup
-Clone the Repository: Clone this repository to your local machine.
+Clone this repository to your local machine.
 
 ```
 git clone https://github.com/EhabLama/object-generator.git
 ```
 
-Navigate to Project Directory: Change your current directory to the root of the cloned repository.
+Change your current directory to the root of the cloned repository.
 ```
 cd object-generator
 ```
